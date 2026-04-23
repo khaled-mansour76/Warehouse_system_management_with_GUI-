@@ -1,0 +1,4 @@
+id,name,quantity,price,locationX,locationY
+P001,Laptop,50,999.99,1,1
+P002,Mouse,15,25.5,1,2
+P003,Keyboard,10,45,2,1

@@ -1,0 +1,5 @@
+/home/khaled/Documents/CPP/project/build/CMakeFiles/WarehouseApp.dir
+/home/khaled/Documents/CPP/project/build/CMakeFiles/edit_cache.dir
+/home/khaled/Documents/CPP/project/build/CMakeFiles/rebuild_cache.dir
+/home/khaled/Documents/CPP/project/build/CMakeFiles/WarehouseApp_autogen_timestamp_deps.dir
+/home/khaled/Documents/CPP/project/build/CMakeFiles/WarehouseApp_autogen.dir

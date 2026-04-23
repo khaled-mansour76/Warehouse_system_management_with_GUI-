@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+54775f382dfefcb5aa801cd7914733af CMakeFiles/WarehouseApp_autogen
+54775f382dfefcb5aa801cd7914733af CMakeFiles/WarehouseApp_autogen_timestamp_deps
+b10422af93f749df5d9dfcfed4074a88 WarehouseApp_autogen/timestamp
